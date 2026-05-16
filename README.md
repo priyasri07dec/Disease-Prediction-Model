@@ -68,6 +68,8 @@ The Streamlit application allows users to:
 
 ## Streamlit Web Application Link
 
+https://priya-srivastava-diseasepredictionmodel.streamlit.app/
+
 ## Conclusion
 
 The project demonstrates the implementation of multiple machine learning classification algorithms for disease prediction using symptom data.
